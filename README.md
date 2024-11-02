@@ -20,6 +20,7 @@ Tasks:
 Task 1️⃣: Create new branch Student_name and add 3 commits.
 new commit but first
 new commit but second
+new commit but third
 
 Task 2️⃣: Merge branch two to branch three and rebase three to one. Show the process in screenshots
 
